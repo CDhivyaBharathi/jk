@@ -57,7 +57,7 @@ export default class MainScreen extends React.Component{
             <View style={styles.container}>
                 <SafeAreaView style={styles.droidSafeArea}/>
                 <View style={styles.headingContainer}>
-                <Text style={styles.titleText}>FRAPP</Text>
+                <Text style={styles.titleText}>Look at me</Text>
                 </View>
                 <View style={styles.cameraStyle}>
                     <Camera style={{ flex: 1 }} 
